@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/sailing-shark-cs
-download-base-url: https://raw.githubusercontent.com/fifthtry/sailing-shark-cs/main
+-- fastn.package: binilvjacob.github.io/my-color-scheme
+download-base-url: https://raw.githubusercontent.com/binilvjacob/my-color-scheme/main
 
 -- fastn.dependency: fifthtry.github.io/color-doc
 
